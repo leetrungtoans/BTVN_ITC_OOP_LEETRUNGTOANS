@@ -141,7 +141,8 @@ int main(){
 	cout<<"\n\tDANH SACH SAP XEP\n";
 	sapXepTen(ng, n);
 	searchName(ng, n);
-
+	
+	delete ng;
 	return 0;
 }
 

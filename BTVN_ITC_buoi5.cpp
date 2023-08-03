@@ -97,6 +97,8 @@ int main(){
 	xuatDS(gv, n);
 	cout<<"\n\n\tDANH SACH GIAO VIEN DUOC SAP XEP THEO BANG CAP\n";
 	sapXep(gv, n);
+	
+	delete gv;
 	return 0;
 }
 
