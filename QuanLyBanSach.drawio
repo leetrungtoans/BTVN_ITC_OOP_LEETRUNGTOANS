@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-05-14T07:40:10.010Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="j_fwHycEzsVJ6kn8xfR4" version="24.4.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-05-14T07:58:08.302Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="3egSv2orD3igrFyJzTOj" version="24.4.0" type="github" pages="3">
   <diagram name="Trang-1" id="rRTdI2hDu67PqyDLe8Fh">
-    <mxGraphModel dx="1790" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1787" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -103,13 +103,13 @@
         <mxCell id="AFnKg5yaAj6XT0c0CYOe-36" value="Báo cáo thống kê" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="700" y="160" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="vAM1ASB7F_F03bIMXwyB-1" value="Lập phiếu nhập" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="vAM1ASB7F_F03bIMXwyB-1" value="Đặt hàng" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="20" y="280" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="vAM1ASB7F_F03bIMXwyB-2" value="Kiểm tra chất lượng" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="vAM1ASB7F_F03bIMXwyB-2" value="Đối chiếu" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="20" y="400" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="vAM1ASB7F_F03bIMXwyB-3" value="Thanh toán" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="vAM1ASB7F_F03bIMXwyB-3" value="Nhận hàng" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="20" y="520" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="vAM1ASB7F_F03bIMXwyB-8" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="AFnKg5yaAj6XT0c0CYOe-33" target="vAM1ASB7F_F03bIMXwyB-1" edge="1">
